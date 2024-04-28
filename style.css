@@ -235,5 +235,21 @@ nav ul li a:hover::after{
 .work:hover .layer{
     height: 100%;
 }
+.btn{
+    display: block;
+    margin: 50px auto;
+    width: fit-content;
+    border: 1px solid #FBAE02;
+    padding: 14px 50px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #FBAE02;
+    transition: background 1s;
+}
+.btn:hover{
+    background: #FBAE02;
+    color: #fff;
+}
+
    
 
